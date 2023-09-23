@@ -1,3 +1,3 @@
 # test3
-# homework
-# do it again
+*# homework
+*# do it again
